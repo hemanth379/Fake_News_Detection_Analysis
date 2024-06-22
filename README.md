@@ -1,1 +1,1 @@
-# Fakenewsdetection-sem5-project
+# Fakenewsdetection data science project
